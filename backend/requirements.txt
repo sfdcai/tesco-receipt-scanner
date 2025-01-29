@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pytesseract==0.3.10
+pillow==10.0.0
+pyzbar==0.1.9
+sqlite3==0.0.1
